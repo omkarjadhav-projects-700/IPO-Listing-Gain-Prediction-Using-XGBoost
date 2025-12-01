@@ -1,0 +1,130 @@
+IRFC IPO Details
+IPO Date	January 18, 2021 to January 20, 2021
+Listing Date	January 29, 2021
+Face Value	₹10 per share
+Issue Price Band	₹25 to ₹26 per share
+Issue Price Final	₹26 per share
+Lot Size	575 Shares
+Sale Type	Fresh Capital-cum-Offer for Sale
+Total Issue Size	1,78,20,69,000 shares
+(aggregating up to ₹4,633.38 Cr)
+Fresh Issue	1,18,80,46,000 shares
+(aggregating up to ₹3,088.92 Cr)
+Offer for Sale	59,40,23,000 shares of ₹10
+(aggregating up to ₹1,544.46 Cr)
+Issue Type	Bookbuilding IPO
+Listing At	BSE, NSE
+Share Holding Pre Issue	11,88,04,60,000 shares
+Share Holding Post Issue	13,06,85,06,000 shares
+IRFC IPO Reservation
+IRFC IPO offers total 1,78,20,69,000 shares. Out of which 89,09,38,346 (49.99%) allocated to QIB, 35,63,75,339 (20.00%) allocated to QIB, 26,72,81,504 (15.00%) allocated to NII, 62,36,56,843 (35.00%) allocated to RII and 53,45,63,007 (30.00%) allocated to Anchor investors.
+
+Investor Category	Shares Offered	Maximum Allottees
+QIB Shares Offered	89,09,38,346 (49.99%)	NA
+NII (HNI) Shares Offered	26,72,81,504 (15.00%)	NA
+Retail Shares Offered	62,36,56,843 (35.00%)	10,84,620
+Employee Shares Offered	1,92,307 (0.01%)	NA
+Total Shares Offered	1,78,20,69,000 (100.00%)	
+Investor Category Reservations
+Application Category	Maximum Bidding Limits	Bidding at Cut-off Price Allowed
+Only RII	Up to Rs 2 Lakhs	Yes
+Only sNII	Rs 2 Lakhs to Rs 10 Lakhs	No
+Only bNII	Rs 10 Lakhs to NII Reservation Portion	No
+Only employee		Yes
+Employee + RII/NII	
+Employee limit: (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)
+If applying as RII: Upto Rs. 2 lakhs
+If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs
+Yes for Employee and RII/NII
+IRFC IPO Anchor Investors Details
+IRFC IPO raises ₹1,389.86 crore from anchor investors. IRFC IPO Anchor bid date is January 15, 2021. IRFC IPO Anchor Investors list
+
+Bid Date	January 15, 2021
+Shares Offered	53,45,63,007
+Anchor Portion Size (In Cr.)	1,389.86
+Anchor lock-in period end date for 50% shares (30 Days)	February 24, 2021
+Anchor lock-in period end date for remaining shares (90 Days)	April 25, 2021
+IRFC IPO Timeline (Tentative Schedule)
+IRFC IPO opens on January 18, 2021, and closes on January 20, 2021.
+
+IPO Open Date	Mon, Jan 18, 2021
+IPO Close Date	Wed, Jan 20, 2021
+Tentative Allotment	Mon, Jan 25, 2021
+Initiation of Refunds	Wed, Jan 27, 2021
+Credit of Shares to Demat	Thu, Jan 28, 2021
+Tentative Listing Date	Fri, Jan 29, 2021
+Cut-off time for UPI mandate confirmation	5 PM on Wed, Jan 20, 2021
+IRFC IPO Lot Size
+Investors can bid for a minimum of 575 shares and in multiples thereof.  The following table depicts the minimum and maximum investment by Individual Investors (Retail) and HNI in terms of shares and amount.
+
+Application	Lots	Shares	Amount
+Retail (Min)	1	575	₹14,950
+Retail (Max)	13	7,475	₹1,94,350
+S-HNI (Min)	14	8,050	₹2,09,300
+S-HNI (Max)	66	37,950	₹9,86,700
+B-HNI (Min)	67	38,525	₹10,01,650
+IRFC IPO Promoter Holding
+The President of India acting through the Ministry of Railways (MoR) is the promoter of the company.
+Promoter Holding Pre Issue	100%
+Promoter Holding Post Issue	86%
+Note : The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue
+
+About Indian Railway Finance Corp.Ltd.
+Incorporated in 1986, the Indian Railway Finance Corporation (IRFC) is a public-sector enterprise that is wholly-owned by the Government of India. IRFC is primarily engaged in financing the acquisition of rolling stock assets, leasing of railway infrastructure assets, and lending to entities under the Ministry of Railways (MoR). Being the borrowing arm of Indian Railways, IRFC is responsible to raise funds for MoR that is required to procure rolling stock assets (wagons, trucks, electric multiple units, locomotives, coaches), its improvement, expansion, and assets management.
+
+It follows a financial leasing model to finance rolling stock assets procurement for a lease period of 30 years. In fiscal 2019, the actual capital expenditures by the Indian Railways were Rs. 1,334 billion, out of which, IRFC financed Rs. 525.35 bn accounting for 39.34% expenditures.
+
+Competitive strengths
+
+Strategic role in Indian Railways growth.
+Sound credit rating i.e. CRISIL AAA/A1+ and ICRA AAA/A1+.
+Competitive cost of borrowing.
+Strong financial performance.
+Sound asset-liability management.
+Experienced management team.
+Company Financials
+Summary of financial Information (Restated Consolidated)
+Particulars	For the year/period ended (Rs in million)
+30-Sep-20	31-Mar-20	31-Mar-19	31-Mar-18
+Total Assets	29,19,865.81	27,55,041.29	20,64,382.95	16,14,510.41
+Total Revenue	73,848.29	1,34,210.90	1,09,873.55	92,078.39
+Profit After Tax	18,868.41	31,920.96	21,399.33	20,014.60
+Objects of the Issue (IRFC IPO Objectives)
+The Company IRFC IPO proposes to utilise the Net Proceeds from the Issue towards the following objects:
+
+S.No.	Objects of the Issue	Expected Amount (₹ in crores)
+1	To carry out the disinvestment of 20,160,000 Equity Shares by the Selling Shareholder constituting 12.60% of our Company’s paid up Equity Share capital our Company; and	
+2	To achieve the benefits of listing the Equity Shares on the Stock Exchanges	
+IRFC IPO Review
+[Dilip Davda]  The issue is priced attractively by a dividend-paying PSU. It is likely to get fancy post listing being the first mover in the segment. Investors may consider investment for long term rewards as this company is laying its future on track and poised for better growth going forward. Read detail review...
+
+IRFC IPO Subscription Status (Bidding Detail)
+The IRFC IPO is subscribed 3.49 times on January 20, 2021 7:49:00 AM (Day 3). The public issue subscribed 3.66 times in the retail category, 3.78 times in the QIB category, and 2.67 times in the NII category. Check Day by Day Subscription Details (Live Status)
+
+Category	Subscription (times)	Shares Offered	Shares bid for
+QIB	3.78	35,63,75,339	1,34,69,25,425
+NII	2.67	26,72,81,504	71,27,21,125
+Retail	3.66	62,36,56,843	2,28,55,97,400
+Employee	43.76	1,92,307	84,15,700
+Total	3.49	1,24,75,05,993	4,35,36,59,650
+IRFC IPO Prospectus
+  ›  IRFC IPO DRHP
+  ›  IRFC IPO RHP
+  ›  Anchor Investors in IRFC IPO
+  ›  IRFC IPO Final Prospectus
+IRFC IPO Listing Details
+Listing Date	January 29, 2021
+BSE Script Code	543257
+NSE Symbol	IRFC
+ISIN	INE053F01010
+Final Issue Price	₹26 per share
+BSE Listing Group	B (Rolling)
+Pre-Open Session - NSEPre-Open Session - BSE
+
+Listing Day Trading Information
+Price Details	NSE SME	NSE SME
+Final Issue Price	₹26.00	₹26.00
+Open	₹25.00	₹24.90
+Low	₹24.30	₹24.35
+High	₹25.80	₹25.80
+Last Trade	₹24.85	₹24.80

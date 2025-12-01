@@ -1,0 +1,146 @@
+IREDA IPO Details
+IPO Date	November 21, 2023 to November 23, 2023
+Listing Date	November 29, 2023
+Face Value	₹10 per share
+Issue Price Band	₹30 to ₹32 per share
+Issue Price Final	₹32 per share
+Lot Size	460 Shares
+Sale Type	Fresh Capital-cum-Offer for Sale
+Total Issue Size	67,19,41,177 shares
+(aggregating up to ₹2,150.21 Cr)
+Fresh Issue	40,31,64,706 shares
+(aggregating up to ₹1,290.13 Cr)
+Offer for Sale	26,87,76,471 shares of ₹10
+(aggregating up to ₹860.08 Cr)
+Issue Type	Bookbuilding IPO
+Listing At	BSE, NSE
+Share Holding Post Issue	2,68,77,64,706 shares
+IREDA IPO Reservation
+IREDA IPO offers total 67,19,41,177 shares. Out of which 33,50,32,878 (49.86%) allocated to QIB, 13,40,13,152 (19.94%) allocated to QIB, 10,05,09,864 (14.96%) allocated to NII, 23,45,23,015 (34.90%) allocated to RII and 20,10,19,726 (29.92%) allocated to Anchor investors.
+
+Investor Category	Shares Offered	Maximum Allottees
+QIB Shares Offered	33,50,32,878 (49.86%)	NA
+NII (HNI) Shares Offered	10,05,09,864 (14.96%)	NA
+Retail Shares Offered	23,45,23,015 (34.90%)	5,09,832
+Employee Shares Offered	18,75,420 (0.28%)	NA
+Total Shares Offered	67,19,41,177 (100.00%)	
+Investor Category Reservations
+Application Category	Maximum Bidding Limits	Bidding at Cut-off Price Allowed
+Only RII	Up to Rs 2 Lakhs	Yes
+Only sNII	Rs 2 Lakhs to Rs 10 Lakhs	No
+Only bNII	Rs 10 Lakhs to NII Reservation Portion	No
+Only employee		Yes
+Employee + RII/NII	
+Employee limit: (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)
+If applying as RII: Upto Rs. 2 lakhs
+If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs
+Yes for Employee and RII/NII
+IREDA IPO Anchor Investors Details
+IREDA IPO raises ₹643.26 crore from anchor investors. IREDA IPO Anchor bid date is November 20, 2023. IREDA IPO Anchor Investors list
+
+Bid Date	November 20, 2023
+Shares Offered	20,10,19,726
+Anchor Portion Size (In Cr.)	643.26
+Anchor lock-in period end date for 50% shares (30 Days)	December 24, 2023
+Anchor lock-in period end date for remaining shares (90 Days)	February 22, 2024
+IREDA IPO Timeline (Tentative Schedule)
+IREDA IPO opens on November 21, 2023, and closes on November 23, 2023.
+
+IPO Open Date	Tue, Nov 21, 2023
+IPO Close Date	Thu, Nov 23, 2023
+Tentative Allotment	Fri, Nov 24, 2023
+Initiation of Refunds	Sat, Nov 25, 2023
+Credit of Shares to Demat	Tue, Nov 28, 2023
+Tentative Listing Date	Wed, Nov 29, 2023
+Cut-off time for UPI mandate confirmation	5 PM on Thu, Nov 23, 2023
+IREDA IPO Lot Size
+Investors can bid for a minimum of 460 shares and in multiples thereof.  The following table depicts the minimum and maximum investment by Individual Investors (Retail) and HNI in terms of shares and amount.
+
+Application	Lots	Shares	Amount
+Retail (Min)	1	460	₹14,720
+Retail (Max)	13	5,980	₹1,91,360
+S-HNI (Min)	14	6,440	₹2,06,080
+S-HNI (Max)	67	30,820	₹9,86,240
+B-HNI (Min)	68	31,280	₹10,00,960
+IREDA IPO Promoter Holding
+The promoter of the company is The President of India acting through The Ministry of New & Renewable Energy, Government of India.
+Promoter Holding Pre Issue	100%
+Promoter Holding Post Issue	75%
+Note : The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue
+
+About Indian Renewable Energy Development Agency Ltd.
+Incorporated in March 1987, Indian Renewable Energy Development Agency Limited is a public limited government company.
+
+IREDA is an experienced financial institution that has been actively promoting, developing, and extending financial assistance for new and renewable energy projects, as well as energy efficiency and conservation projects for over 36 years.
+
+The company offers a comprehensive range of financial products and related services, from project conceptualization to post-commissioning, for RE projects and other value chain activities such as equipment manufacturing and transmission. IREDA is committed to facilitating the transition towards a greener and more sustainable future, and as a reliable partner, the company ensure that its clients receive the best possible support and guidance throughout their projects.
+
+As on March 31, 2023, our Term Loans Outstanding stood at ₹ 470,755.21 million, compared to ₹ 278,539.21 million as on March 31, 2021, increasing at a CAGR of 30.00%, and as of September 30, 2022 and September 30, 2023, our Term Loans Outstanding were ₹ 337,833.59 million and ₹ 475,144.83 million, respectively.
+
+As of September 30, 2023, the company have 175 employees out of which 152 are professionally qualified with engineering, finance, legal, human resource and IT background.
+
+Company Financials
+Indian Renewable Energy Development Agency Limited Financial Information (Restated Standalone)
+Indian Renewable Energy Development Agency Limited's revenue increased by 21.18% and profit after tax (PAT) rose by 36.48% between the financial year ending with March 31, 2023 and March 31, 2022.
+
+Period Ended	30 Sep 2023	31 Mar 2023	31 Mar 2022	31 Mar 2021
+Assets	51,208.36	50,446.98	36,708.41	30,293.39
+Total Income	2,320.46	3,483.04	2,874.16	2,657.74
+Profit After Tax	579.32	864.63	633.53	346.38
+Net Worth	6,580.61	5,935.17	5,268.11	2,995.60
+Reserves and Surplus	2,550.36	2,310.96	1,776.05	1,386.12
+Total Borrowing	39,850.19	40,165.23	27,613.07	24,000.00
+Amount in ₹ Crore
+Key Performance Indicator (KPI)
+The market capitalization of IREDA IPO is ₹8600.85 Cr.
+
+KPI	Values
+ROE	15.44%
+Debt/Equity	6.77
+RoNW	15.44%
+Check IREDA IPO Peer Comparison here.
+Pre IPO	Post IPO
+EPS Rs	3.78	
+P/E (x)	8.47	7.42
+Objects of the Issue (IREDA IPO Objectives)
+The Offer comprises the Fresh Issue and the Offer for Sale. The company will not receive any proceeds from the Offer for Sale. Further, the proceeds of the Offer for Sale shall be received by the Promoter Selling Shareholder and will not form part of the Net Proceeds. The company intends to utilize the net proceeds for the following objects:-
+
+Augmenting the capital base to meet future capital requirements and onwardlending.
+The Company expects to receive the benefits of listing the Equity Shares on the Stock Exchanges, including enhancing the brand image among existing and potential customers and creating a public market for the Equity Shares in India.
+IREDA IPO Review
+[Dilip Davda]  IREDA enjoys front runner tag in renewable energy financing and advisory services and is a PSU. It has posted growth in its top and bottom lines for the reported periods. Based on annualized FY24 earnings the issue appears fully priced, but is a long race horse. Well-informed investors may invest in this issue with a long term perspective. Read detail review...
+
+IREDA IPO Subscription Status (Bidding Detail)
+The IREDA IPO is subscribed 38.8 times on November 23, 2023 5:39:00 PM (Day 3). The public issue subscribed 7.73 times in the retail category, 104.57 times in the QIB category, and 24.16 times in the NII category. Check Day by Day Subscription Details (Live Status)
+
+Category	Subscription (times)	Shares Offered	Shares bid for
+QIB	104.57	13,40,13,152	14,01,35,36,140
+NII	24.16	10,05,09,864	2,42,82,84,340
+    bNII (bids above ₹10L)	26.99	6,70,06,576	1,80,83,17,500
+    sNII (bids below ₹10L)	18.5	3,35,03,288	61,99,66,840
+Retail	7.73	23,45,23,015	1,81,22,83,160
+Employee	9.8	18,75,420	1,83,70,560
+Total	38.8	47,09,21,451	18,27,24,74,200
+Total Application : 28,58,909
+
+IREDA IPO Prospectus
+  ›  IREDA IPO DRHP
+  ›  IREDA IPO RHP
+  ›  Anchor Investors in IREDA IPO
+  ›  IREDA IPO Final Prospectus
+IREDA IPO Listing Details
+Listing Date	November 29, 2023
+BSE Script Code	544026
+NSE Symbol	IREDA
+ISIN	INE202E01016
+Final Issue Price	₹32 per share
+BSE Listing Group	B (Rolling)
+Pre-Open Session - NSEPre-Open Session - BSE
+
+Listing Day Trading Information
+Price Details	NSE SME	NSE SME
+Final Issue Price	₹32.00	₹32.00
+Open	₹50.00	₹50.00
+Low	₹49.99	₹50.00
+High	₹59.99	₹60.00
+Last Trade	₹59.99	₹60.00
